@@ -6,37 +6,5 @@
         "gyomuShosaiCd": 1,
         "remarks": {},
         "file": {}
-    },
-    {
-        "koinNo": 2,
-        "dairiKoinNo": 2,
-        "filename": "filename 2",
-        "gyomuShosaiCd": 2,
-        "remarks": {},
-        "file": {}
-    },
-    {
-        "koinNo": 3,
-        "dairiKoinNo": 3,
-        "filename": "filename 3",
-        "gyomuShosaiCd": 3,
-        "remarks": {},
-        "file": {}
-    },
-    {
-        "koinNo": 4,
-        "dairiKoinNo": 4,
-        "filename": "filename 4",
-        "gyomuShosaiCd": 4,
-        "remarks": {},
-        "file": {}
-    },
-    {
-        "koinNo": 5,
-        "dairiKoinNo": 5,
-        "filename": "filename 5",
-        "gyomuShosaiCd": 5,
-        "remarks": {},
-        "file": {}
     }
 ]
