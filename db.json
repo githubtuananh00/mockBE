@@ -1,8 +1,8 @@
 {
    "koin":[
       {
-         "koinNo":1,
-         "dairiKoinNo":1,
+         "koinNo":11,
+         "dairiKoinNo":11,
          "filename":"filename 1",
          "gyomuShosaiCd":1,
          "remarks":{
@@ -25,8 +25,8 @@
          }
       },
       {
-         "koinNo":3,
-         "dairiKoinNo":3,
+         "koinNo":31,
+         "dairiKoinNo":31,
          "filename":"filename 3",
          "gyomuShosaiCd":3,
          "remarks":{
@@ -37,8 +37,8 @@
          }
       },
       {
-         "koinNo":4,
-         "dairiKoinNo":4,
+         "koinNo":41,
+         "dairiKoinNo":41,
          "filename":"filename 4",
          "gyomuShosaiCd":4,
          "remarks":{
@@ -49,8 +49,8 @@
          }
       },
       {
-         "koinNo":5,
-         "dairiKoinNo":5,
+         "koinNo":51,
+         "dairiKoinNo":51,
          "filename":"filename 5",
          "gyomuShosaiCd":5,
          "remarks":{
